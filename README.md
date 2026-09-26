@@ -7,7 +7,7 @@ This project analyzes Superstore sales data using Python and Jupyter Notebook. T
 ## Dataset Information
 
 - Total Records: 9,994
-- Total Columns: 18
+- Total Columns: 21
 
 ## Tools and Libraries Used
 
